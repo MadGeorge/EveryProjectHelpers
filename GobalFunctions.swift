@@ -1,11 +1,3 @@
-//
-//  GobalFunctions.swift
-//  HRecipes
-//
-//  Created by MadGeorge on 28/11/16.
-//  Copyright © 2016 MadGeorge. All rights reserved.
-//
-
 import Foundation
 
 /// Shortcut for NSLocalizedString with empty comment

@@ -1,11 +1,3 @@
-//
-//  ColorHelpers.swift
-//  HRecipes
-//
-//  Created by MadGeorge on 10/12/2016.
-//  Copyright © 2016 MadGeorge. All rights reserved.
-//
-
 import Foundation
 import UIKit
 
