@@ -1,2 +1,9 @@
-# EveryProjectHelpers
-Global functions and extensions used from project to project in iOS and Swift 3
+# Small helpers which i use in every project
+
+# Requirements
+
+Swift 3 
+
+# How to use
+
+Drop this files into your project
